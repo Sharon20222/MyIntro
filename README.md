@@ -34,5 +34,4 @@ The site is built with **HTML + Tailwind CSS + AOS animations** and hosted using
 ```bash
 .
 ├── index.html        # Main portfolio page
-├── assets/           # (Optional) Images, icons, etc.
 ├── README.md         # This file
