@@ -8,7 +8,7 @@ The site is built with **HTML + Tailwind CSS + AOS animations** and hosted using
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Portfolio](https://your-username.github.io/your-repo-name)  
+🔗 [View Portfolio](https://sharon20222.github.io/MyIntro/)  
 
 ---
 
