@@ -29,9 +29,3 @@ The site is built with **HTML + Tailwind CSS + AOS animations** and hosted using
 - **Deployment:** GitHub Pages  
 
 ---
-
-## 📂 Project Structure  
-```bash
-.
-├── index.html        # Main portfolio page
-├── README.md         # This file
